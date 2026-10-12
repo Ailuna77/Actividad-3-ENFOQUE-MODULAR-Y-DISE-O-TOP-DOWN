@@ -1,4 +1,4 @@
-# Actividad-3-ENFOQUE-MODULAR-Y-DISE-O-TOP-DOWN
+# Actividad-3-ENFOQUE-MODULAR-Y-DISEÑO-TOP-DOWN
 ## Proyecto Integrador Anual - LPR 2026
 
 * **Institución:** E.E.S.T. N.º 1 "Eduardo Ader" - Vicente López
